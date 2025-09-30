@@ -1,4 +1,4 @@
-//Dsa Day 4(question 2)
+//Dsa Day 4(question 2).
 //contains duplicate
 import java.util.*;
 public class Containsduplicate{
