@@ -1,4 +1,4 @@
-//Dsa day 6
+//Dsa day 6.
 //topics covered HashTable, Math,Two Pointers
 
 import java.util.*;
