@@ -2,10 +2,10 @@ import java.util.*;
 
 class ValidAnagram {
     public boolean isAnagram(String s, String t) {
-
+//Check whether the lengths are different or not
         if (s.length() != t.length()) return false;
 
-        
+        //here we assume 26 lowercase alphb.letters
         int[] count = new int[26]; // assuming lowercase letters only
         s = s.toLowerCase();
         t = t.toLowerCase();
