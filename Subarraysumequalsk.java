@@ -1,3 +1,5 @@
+//Dsa day 8
+//Topics covered:Arr,Hash T,prefixs
 import java.util.*;
 public class Subarraysumequalsk{
     public int subarraySum(int[] nums,int k){
