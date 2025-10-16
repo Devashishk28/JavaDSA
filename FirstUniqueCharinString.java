@@ -1,3 +1,5 @@
+//Day 9
+//Topics covered Hash Table ,String, Queue, Counting.
 public class FirstUniqueCharinString {
        static int firstuniquecharacter(String s){
         int[] freq=new int[26];
@@ -16,3 +18,4 @@ public class FirstUniqueCharinString {
         System.out.println(firstuniquecharacter("loveleetcode"));
     }
 }
+
